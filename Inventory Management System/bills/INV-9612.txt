@@ -1,0 +1,25 @@
+
+==================================================
+         ELECTRONICS SHOP BILLING SYSTEM          
+              *** OFFICIAL BILL ***               
+==================================================
+
+             Invoice Number: INV-9612              
+            Date: 2025-01-02 11:14:17              
+               Customer Name: demo                 
+               Contact: 1234567890                 
+==================================================
+
+Item                      Unit Price (₹)  Qty        Total (₹)      
+----------------------------------------------------------------------
+LG Fridge                 20000.00        2          40000.00       
+----------------------------------------------------------------------
+               Subtotal: ₹40000.00                 
+             Discount (5%): ₹2000.00               
+              Net Payable: ₹38000.00               
+==================================================
+
+         Thank you for shopping with us!          
+      We look forward to serving you again.       
+  For inquiries, contact us at support@shop.com   
+==================================================

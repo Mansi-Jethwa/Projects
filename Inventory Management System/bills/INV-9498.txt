@@ -1,0 +1,25 @@
+
+==================================================
+         ELECTRONICS SHOP BILLING SYSTEM          
+              *** OFFICIAL BILL ***               
+==================================================
+
+             Invoice Number: INV-9498              
+            Date: 2025-01-01 20:12:13              
+               Customer Name: Mansi                
+               Contact: 9023609661                 
+==================================================
+
+Item                      Unit Price (₹)  Qty        Total (₹)      
+----------------------------------------------------------------------
+Oppo Phone                20000.00        2          40000.00       
+----------------------------------------------------------------------
+               Subtotal: ₹40000.00                 
+             Discount (5%): ₹2000.00               
+              Net Payable: ₹38000.00               
+==================================================
+
+         Thank you for shopping with us!          
+      We look forward to serving you again.       
+  For inquiries, contact us at support@shop.com   
+==================================================

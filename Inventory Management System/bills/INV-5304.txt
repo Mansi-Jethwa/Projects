@@ -1,0 +1,26 @@
+
+==================================================
+         ELECTRONICS SHOP BILLING SYSTEM          
+              *** OFFICIAL BILL ***               
+==================================================
+
+             Invoice Number: INV-5304              
+            Date: 2024-12-25 19:46:20              
+               Customer Name: Mansi                
+               Contact: 9023609662                 
+==================================================
+
+Item                      Unit Price (₹)  Qty        Total (₹)      
+----------------------------------------------------------------------
+Oppo Phone                20000.00        2          40000.00       
+LG Fridge                 20000.00        2          40000.00       
+----------------------------------------------------------------------
+               Subtotal: ₹80000.00                 
+             Discount (5%): ₹4000.00               
+              Net Payable: ₹76000.00               
+==================================================
+
+         Thank you for shopping with us!          
+      We look forward to serving you again.       
+  For inquiries, contact us at support@shop.com   
+==================================================
